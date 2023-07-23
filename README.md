@@ -1,7 +1,7 @@
 # Hi there, I'm Tural - aka [Martial Coding][youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvE-1xbTsOH_Kstd8PJdiXQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=https://turalhasanov-portfolio.netlify.app&style=for-the-badge&url=https://turalhasanov-portfolio.netlify.app)]([http://turalhasanovportfolio.herokuapp.com](https://turalhasanov-portfolio.netlify.app))
+[![Website](https://img.shields.io/website?label=https://turalhasanov-portfolio.netlify.app&style=for-the-badge&url=https://turalhasanov-portfolio.netlify.app)]([https://turalhasanov-portfolio.netlify.app](https://turalhasanov-portfolio.netlify.app))
 
 ## I'm a Student and Developer!
 
