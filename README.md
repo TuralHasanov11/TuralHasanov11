@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Learn more about web3
-- ⚡ Fun fact: I love to workout and watch movies
+- ⚡ Fun fact: I love workout and watching movies
 
 ### Languages and Tools:
 
