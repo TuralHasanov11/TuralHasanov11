@@ -43,3 +43,11 @@
 [website]: http://turalhasanovportfolio.herokuapp.com
 [youtube]: https://www.youtube.com/channel/UCvE-1xbTsOH_Kstd8PJdiXQ
 [linkedin]: https://www.linkedin.com/in/tural-hasanov-1a5554204
+
+<br />
+
+### My Publications:
+- [Permission-Based Authentication and Authorization in .NET, via Cookies](https://medium.com/@hasanovtural11/permission-based-authentication-and-authorization-in-net-throughcookies-5b396e4b41a8)
+- [Permission-Based Authentication and Authorization in .NET and Vue.js SPA, through JWT Tokens](https://medium.com/@hasanovtural11/permission-based-authentication-and-authorization-in-net-and-vue-js-through-jwt-tokens-5cec440ecf4e)
+- [Mastering Secure Authentication in .NET and Vue: A BFF Pattern Guide with Auth0](https://medium.com/@hasanovtural11/mastering-secure-authentication-in-net-and-vue-a-bff-pattern-guide-with-auth0-46aca9d3c567)
+
