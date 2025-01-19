@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Learn more about web3
 - ⚡ Fun fact: I love workout and watching movies
 
 ### Languages and Tools:
@@ -50,4 +49,4 @@
 - [Permission-Based Authentication and Authorization in .NET, via Cookies](https://medium.com/@hasanovtural11/permission-based-authentication-and-authorization-in-net-throughcookies-5b396e4b41a8)
 - [Permission-Based Authentication and Authorization in .NET and Vue.js SPA, through JWT Tokens](https://medium.com/@hasanovtural11/permission-based-authentication-and-authorization-in-net-and-vue-js-through-jwt-tokens-5cec440ecf4e)
 - [Mastering Secure Authentication in .NET and Vue: A BFF Pattern Guide with Auth0](https://medium.com/@hasanovtural11/mastering-secure-authentication-in-net-and-vue-a-bff-pattern-guide-with-auth0-46aca9d3c567)
-
+- [Partial Single Sign-On (SSO) in .NET and Vue](https://medium.com/@hasanovtural11/partial-single-sign-on-sso-in-net-and-vue-50c3359f6cbd)
